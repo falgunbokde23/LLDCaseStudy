@@ -21,7 +21,6 @@ public class Catalog implements Search {
 		return movieLanguages.get(language);
 	}
 
-	//...
 
 	public List<Movie> searchByCity(String cityName) {
 		return movieCities.get(cityName);
