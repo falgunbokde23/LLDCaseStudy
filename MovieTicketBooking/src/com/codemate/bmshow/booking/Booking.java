@@ -25,6 +25,7 @@ public class Booking {
 		  
 	  }
 	  
+	
 	  /**
 	   * Cancel existing booking
 	   * @return
