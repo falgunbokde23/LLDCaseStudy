@@ -28,13 +28,11 @@ public class Catalog implements Search {
 
 	@Override
 	public List<Movie> searchByGenre(String genre) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
 	public List<Movie> searchByReleaseDate(Date releaseDate) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 }
