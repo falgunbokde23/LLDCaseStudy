@@ -26,10 +26,7 @@ public class Booking {
 	  }
 	  
 	
-	  /**
-	   * Cancel existing booking
-	   * @return
-	   */
+	
 	  public boolean cancel() {
 		  
 	  }
