@@ -31,11 +31,6 @@ public class Booking {
 		  
 	  }
 	  
-	  /**
-	   * @param seats
-	   * allocate the seat.
-	   * @return
-	   */
 	  public boolean assignSeats(List<ShowSeat> seats) {
 		  
 	  }
